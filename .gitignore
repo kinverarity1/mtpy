@@ -23,3 +23,5 @@ _build
 *.toc
 *.log
 *.bbl
+.ipynb_checkpoints
+examples/edis*
